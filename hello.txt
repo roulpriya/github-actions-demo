@@ -1,2 +1,2 @@
-Hi HiCounsellor Student
+This demo is to understand the CI/CD GitHub Action
 
